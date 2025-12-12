@@ -1,37 +1,38 @@
 [
   {
     "id": 1,
-    "icone": "https://github.com/W3nde11/api/blob/main/icone/habilidades/frameworks.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/frameworks.svg?raw=true",
     "titulo": "Frameworks",
     "descrição": "Estruturas para aplicações rápidas e otimizadas",
     "habilidades": ["React", "Angular", "Vite", "React-Native"]
   },
   {
     "id": 2,
-    "icone": "https://github.com/W3nde11/api/blob/main/icone/habilidades/frontend.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/frontend.svg?raw=true",
     "titulo": "FrontEnd",
     "descrição": "Desenvolvimento de interfaces modernas e responsivas",
     "habilidades": ["HTML5", "CSS3", "Tailwind CSS", "JavaScript"]
   },
   {
     "id": 3,
-    "icone": "https://github.com/W3nde11/api/blob/main/icone/habilidades/backend.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/backend.svg?raw=true",
     "titulo": "BackEnd",
     "descrição": "Desenvolvimento de aplicações robustas e escaláveis",
     "habilidades": ["Python", "PHP", "Node.js"]
   },
   {
     "id": 4,
-    "icone": "https://github.com/W3nde11/api/blob/main/icone/habilidades/bacodados.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/bacodados.svg?raw=true",
     "titulo": "Banco de Dados",
     "descrição": "Gerenciamento e modelagem de dados SQL e NoSQL",
     "habilidades": ["MySQL", "MariaDB", "MongoDB"]
   },
   {
     "id": 5,
-    "icone": "https://github.com/W3nde11/api/blob/main/icone/habilidades/infraestrutura.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/infraestrutura.svg?raw=true",
     "titulo": "Infraestrutura",
     "descrição": "Infraestrutura, deploy e versionamento",
     "habilidades": ["Github", "Git", "AWS"]
   }
 ]
+

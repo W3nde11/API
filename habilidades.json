@@ -22,7 +22,7 @@
   },
   {
     "id": 4,
-    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/bacodados.svg?raw=true",
+    "icone": "https://github.com/W3nde11/api/blob/main/imagens/habilidades/bancodados.svg?raw=true",
     "titulo": "Banco de Dados",
     "descrição": "Gerenciamento e modelagem de dados SQL e NoSQL",
     "habilidades": ["MySQL", "MariaDB", "MongoDB"]
@@ -35,4 +35,5 @@
     "habilidades": ["Github", "Git", "AWS"]
   }
 ]
+
 

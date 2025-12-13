@@ -4,7 +4,7 @@
     "imagens": {
       "desktop": "https://github.com/W3nde11/api/blob/main/imagens/projetos/indexa/indexa-desktop.webp?raw=true",
       "tablet": "https://github.com/W3nde11/api/blob/main/imagens/projetos/indexa/indexa-tablet.webp?raw=true",
-      "mobile": "https://github.com/W3nde11/api/blob/main/icones/projetos/indexa/indexa-mobile.webp?raw=true"
+      "mobile": "https://github.com/W3nde11/api/blob/main/imagens/projetos/indexa/indexa-mobile.webp?raw=true"
     },
     "titulo": "Indexa",
     "descricao": "Este projeto, chamado Indexa, foi desenvolvido para revisar e consolidar os principais conceitos do Angular, incluindo criação de componentes, uso de templates, estilização, integração com arquivos JSON, comunicação entre componentes e utilização do Angular CLI.",
@@ -17,7 +17,7 @@
     "imagens": {
       "desktop": "https://github.com/W3nde11/api/blob/main/icones/projetos/t-daycare/t-daycare-desktop.webp?raw=true",
       "tablet": "https://github.com/W3nde11/api/blob/main/icones/projetos/t-daycare/t-daycare-tablet.webp?raw=true",
-      "mobile": "https://github.com/W3nde11/api/blob/main/icones/projetos/t-daycare/t-daycare-mobile.webp?raw=true"
+      "mobile": "https://github.com/W3nde11/api/blob/main/imagens/projetos/t-daycare/t-daycare-mobile.webp?raw=true"
     },
     "titulo": "T'DayCare",
     "descricao": "Projeto desenvolvido com o objetivo de apoiar a empresa Recreação Infantil Bem Viver, um hotelzinho infantil localizado em Poá/SP. A creche enfrentava desafios relacionados à baixa cooperação dos pais nas atividades extras e à valorização do seu trabalho. Usuário: admin Senha: 12345678",
@@ -28,9 +28,9 @@
       {
     "id": 3,
     "imagens": {
-      "desktop": "https://github.com/W3nde11/api/blob/main/icones/projetos/jogo/jogo-desktop.webp?raw=true",
-      "tablet": "https://github.com/W3nde11/api/blob/main/icones/projetos/jogo/jogo-tablet.webp?raw=true",
-      "mobile": "https://github.com/W3nde11/api/blob/main/icones/projetos/jogo/jogo-mobile.webp?raw=true"
+      "desktop": "https://github.com/W3nde11/api/blob/main/imagens/projetos/jogo/jogo-desktop.webp?raw=true",
+      "tablet": "https://github.com/W3nde11/api/blob/main/imagens/projetos/jogo/jogo-tablet.webp?raw=true",
+      "mobile": "https://github.com/W3nde11/api/blob/main/imagens/projetos/jogo/jogo-mobile.webp?raw=true"
     },
     "titulo": "Jogo do Numero Secreto",
     "descricao": "Implementado com HTML, CSS e JavaScript, com foco em lógica de programação e interatividade no DOM. Manipulação de elementos com document.querySelector e alteração dinâmica de conteúdo. Uso de funções (com e sem return) para modularização e reutilização de código.",
@@ -39,3 +39,4 @@
     "link": "https://logica-numero-secreto.vercel.app/"
   }
 ]
+

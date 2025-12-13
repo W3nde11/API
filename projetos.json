@@ -15,8 +15,8 @@
     {
     "id": 2,
     "imagens": {
-      "desktop": "https://github.com/W3nde11/api/blob/main/icones/projetos/t-daycare/t-daycare-desktop.webp?raw=true",
-      "tablet": "https://github.com/W3nde11/api/blob/main/icones/projetos/t-daycare/t-daycare-tablet.webp?raw=true",
+      "desktop": "https://github.com/W3nde11/api/blob/main/imagens/projetos/t-daycare/t-daycare-desktop.webp?raw=true",
+      "tablet": "https://github.com/W3nde11/api/blob/main/imagens/projetos/t-daycare/t-daycare-tablet.webp?raw=true",
       "mobile": "https://github.com/W3nde11/api/blob/main/imagens/projetos/t-daycare/t-daycare-mobile.webp?raw=true"
     },
     "titulo": "T'DayCare",
@@ -39,4 +39,5 @@
     "link": "https://logica-numero-secreto.vercel.app/"
   }
 ]
+
 

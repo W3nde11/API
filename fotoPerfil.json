@@ -3,8 +3,9 @@
         "id": 1,
         "imagens": {
             "desktop": "https://github.com/W3nde11/api/blob/main/imagens/sobre/perfil-desktop.webp?raw=true",
-            "tablet": "https://github.com/W3nde11/api/blob/main/imagens/sobre/tablet-desktop.webp?raw=true",
-            "mobile": "https://github.com/W3nde11/api/blob/main/imagens/sobre/mobile-desktop.webp?raw=true"
+            "tablet": "https://github.com/W3nde11/api/blob/main/imagens/sobre/perfil-tablet.webp?raw=true",
+            "mobile": "https://github.com/W3nde11/api/blob/main/imagens/sobre/perfil-mobile.webp?raw=true"
         }
     }
+
 ]
